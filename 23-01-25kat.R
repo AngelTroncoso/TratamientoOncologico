@@ -20,6 +20,8 @@ library(ggplot2)
 library(gganimate)
 library(gifski)
 
+
+
 # Convertir las frecuencias a un data frame para ggplot2
 frecuencias_df <- as.data.frame(frecuencias)
 names(frecuencias_df) <- c("Perfil", "Frecuencia")
