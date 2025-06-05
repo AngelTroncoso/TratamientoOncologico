@@ -1,8 +1,7 @@
 # 📊 Análisis de Datos para Tratamientos Oncologicos 💊
-
-![image](https://lh3.googleusercontent.com/gg-dl/AJfQ9KQyznWITRsnYqIqxH3oNEYacx2OlHPKJ1_JeZVfag3XAj6FoqzOPzZhntGWPhecYmCeAvtSAnmu1jIWZISeB7uiojsWB85RwIOoroNNckQyFD23Ay8WFgd4DgRq6IJ-wIIbQasfgJdJ10amQhWuM4Kqz1u9bAEmUd3znAfRDJAdime4QA=s1024)
-
-Repositorio de análisis de datos utilizando Python en Google Colab, en colaboración con GitHub.
+      Repositorio de análisis de datos utilizando Python en Google Colab, en colaboración con GitHub.
+ 
+![image](https://image.lexica.art/full_webp/a6735158-0f37-4e3a-a22b-3adf2851a6ac)
 
 ## 📚 Contenido
 -----------
